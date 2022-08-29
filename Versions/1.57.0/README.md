@@ -1,4 +1,4 @@
-# Stripo plugin version
+# Stripo plugin
 
 ## Forked project from https://github.com/ardas/stripo-plugin
 
