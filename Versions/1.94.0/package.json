@@ -1,0 +1,22 @@
+{
+  "name": "imagino-stripo",
+  "description": "Package the stripo email builder for node_modules using npm or yarn",
+  "version": "1.94.0",
+  "main": "stripo.js",
+  "author": {
+    "name": "ardas/stripo",
+    "url": "https://github.com/ardas/stripo-plugin"
+  },
+  "homepage": "https://stripo.email/fr/",
+  "repository": {
+    "url": "https://github.com/imaginoCDP/stripo-plugin",
+    "type": "git"
+  },
+  "keywords": [
+    "email",
+    "builder",
+    "stripo",
+    "templates"
+  ],
+  "license": "MIT"
+}
